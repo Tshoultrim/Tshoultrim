@@ -25,11 +25,11 @@ My name is **Your Name**. A passionate developer from **Your Country**. My main 
 
 ### 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <b>With ❤️ from Your Country</b>
+  <b>With ❤️ from Your Bhutan</b>
 </p>
