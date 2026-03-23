@@ -29,9 +29,8 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 #### 🌐 Infrastructure & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,js,react,html,css,git,github,vscode,postman&theme=dark" />
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" height="48" />
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,postman&theme=dark" />
 </p>
 
 > **Key Focus:** RAG Frameworks, LLM Prompt Engineering, Cisco CCNA Networking, and System Security.
@@ -42,6 +41,10 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshoultrim&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&background=0D1117CC" />
 </p>
 
