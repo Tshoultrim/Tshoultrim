@@ -43,8 +43,8 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ### 📊 Dynamic Insights (Dark Glass Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
-  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
 </p>
 
