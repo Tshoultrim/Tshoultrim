@@ -10,7 +10,7 @@
 <h1 align="center">🔹 Data Science & AI Developer 🔹</h1>
 
 <p align="center">
-  <b>BCA Data Science Student @ Chandigarh University | Volunteer 🇧🇹</b>
+  <b>BCA Data Science Student @ Chandigarh University | 🇮🇳 🇧🇹</b>
 </p>
 
 <p align="center">
@@ -57,3 +57,4 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 <p align="center">
   <b>Built with 🤍 from the Land of the Thunder Dragon 🇧🇹</b>
 </p>
+
